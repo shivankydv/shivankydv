@@ -22,7 +22,7 @@ education:    B.Tech, Computer Science (Data Science) @ NIET  (2024 – 2028)
 gpa:          8.20 / 10.0
 focus:        Backend Development — REST APIs, relational databases, Java systems
 core_skills:  Data Structures & Algorithms · OOP · DBMS
-problems_solved: 250+ (HackerRank, LeetCode, GeeksforGeeks)
+problems_solved: 300+ (HackerRank, LeetCode, GeeksforGeeks)
 status:       Open to backend / full-stack engineering opportunities
 ```
 
