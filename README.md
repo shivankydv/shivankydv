@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=220&section=header&text=Shivank%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%2B+Spring+Boot;Building+Bharat+Bhumi+%26+Veleon;300%2B+DSA+Problems+Solved;Open+to+Backend%2FFull-Stack+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%2B+Spring+Boot;Building+Bharat+Bhumi+%26+Veleon;400%2B+DSA+Problems+Solved;Open+to+Backend%2FFull-Stack+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -22,7 +22,7 @@ education:    B.Tech, Computer Science (Data Science) @ NIET  (2024 – 2028)
 gpa:          8.20 / 10.0
 focus:        Backend Development — REST APIs, relational databases, Java systems
 core_skills:  Data Structures & Algorithms · OOP · DBMS
-problems_solved: 300+ (HackerRank, LeetCode, GeeksforGeeks)
+problems_solved: 400+ (HackerRank, LeetCode, GeeksforGeeks)
 status:       Open to backend / full-stack engineering opportunities
 ```
 
@@ -137,7 +137,7 @@ A software engineering workspace for project/task management, API documentation,
 
 | 🎯 | Achievement |
 |:---:|---|
-| ✅ | Solved **250+** coding & data structure problems across HackerRank, LeetCode, and GeeksforGeeks |
+| ✅ | Solved **400+** coding & data structure problems across HackerRank, LeetCode, and GeeksforGeeks |
 | ⭐ | **3★** rating in Java on HackerRank |
 
 </div>
