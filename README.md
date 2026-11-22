@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=220&section=header&text=Shivank%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
@@ -28,6 +28,7 @@ status:       Open to backend / full-stack engineering opportunities
 
 - 🏗️ Building **Bharat Bhumi** — a unified land administration platform for SIH 2026
 - 🛠️ Building **Veleon** — a software engineering workspace with auth, persistence, and planned real-time collaboration
+- 💪 Developed and deployed **Fitness Tracker** — a full-stack Spring Boot application with Docker and cloud database integration
 - 🌱 Strong fundamentals-first approach: DSA, OOP, and DBMS before frameworks
 - 📫 Reach me anytime — links below
 
@@ -51,6 +52,7 @@ status:       Open to backend / full-stack engineering opportunities
 <img src="https://img.shields.io/badge/-JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 <img src="https://img.shields.io/badge/-REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 
 <br/><br/>
 
@@ -63,6 +65,7 @@ status:       Open to backend / full-stack engineering opportunities
 **Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://img.shields.io/badge/-TiDB-00A3E0?style=for-the-badge&logo=tidb&logoColor=white" />
 
 <br/><br/>
 
@@ -76,7 +79,8 @@ status:       Open to backend / full-stack engineering opportunities
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,docker" />
+<img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 
 </div>
 
@@ -129,6 +133,56 @@ A software engineering workspace for project/task management, API documentation,
 </tr>
 </table>
 
+### 💪 Fitness Tracker
+**Full-Stack Fitness Tracking Application**  
+<sub><strong>Completed · Live Deployment</strong></sub>
+
+![Java](https://img.shields.io/badge/-Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+A full-stack fitness tracking platform that allows users to register, log in, record workout activities, manage fitness goals, and monitor their progress through a dashboard.
+
+**Highlights:**
+- Implemented user authentication and authorization using Spring Security
+- Built activity tracking and goal management functionality
+- Used Spring Data JPA and Hibernate for database persistence
+- Developed dynamic server-rendered pages using Thymeleaf
+- Containerized the application using Docker and Docker Compose
+- Deployed the Spring Boot application on Render with TiDB Cloud as the managed MySQL-compatible database
+
+**🌐 Live Application:** [Open Fitness Tracker](https://fitness-tracker-nyp5.onrender.com)  
+**💻 Source Code:** [GitHub Repository](https://github.com/shivankydv/Fitness_Tracker)
+
+#### 📸 Application Screenshots
+
+<div align="center">
+
+**Login Page — Click to open the live application**
+
+<a href="https://fitness-tracker-nyp5.onrender.com">
+  <img src="assets/fitness-tracker-login.png" alt="Fitness Tracker Login Page — Click to visit live application" width="85%"/>
+</a>
+
+<br/><br/>
+
+**Activities Dashboard — Click to open the live application**
+
+<a href="https://fitness-tracker-nyp5.onrender.com">
+  <img src="assets/fitness-tracker-activities.png" alt="Fitness Tracker Activities Dashboard — Click to visit live application" width="95%"/>
+</a>
+
+<br/>
+
+<a href="https://fitness-tracker-nyp5.onrender.com">
+  <img src="https://img.shields.io/badge/🚀_Visit_Live_Application-0B5132?style=for-the-badge" alt="Visit Fitness Tracker"/>
+</a>
+
+</div>
+
 <br/>
 
 ## 🏆 Achievements
@@ -151,8 +205,8 @@ A software engineering workspace for project/task management, API documentation,
 | ✅ Already Using | 🔭 Exploring (via Veleon) |
 |---|---|
 | Java, Spring Boot, Spring Security, REST APIs | WebSockets for real-time collaboration |
-| PostgreSQL, MySQL, JPA/Hibernate | Docker for containerized deployment |
-| | Deeper GitHub API integration |
+| PostgreSQL, MySQL, JPA/Hibernate | Deeper GitHub API integration |
+| Docker, Docker Compose, Cloud Deployment | Advanced cloud and CI/CD workflows |
 
 </div>
 
