@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#211B19"/><stop offset="1" stop-color="#39251F"/></linearGradient>
+ <pattern id="p" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8D7668" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="250" rx="18" fill="url(#g)"/><rect width="1200" height="250" rx="18" fill="url(#p)"/>
+<circle cx="1030" cy="90" r="125" fill="none" stroke="#C58D70" stroke-opacity=".35" stroke-width="1.5"/>
+<circle cx="1030" cy="90" r="92" fill="none" stroke="#B7C7B0" stroke-opacity=".25"/>
+<path d="M930 190L1125 22" stroke="#C58D70" stroke-opacity=".45"/>
+<text x="64" y="75" fill="#B7C7B0" font-family="Arial,sans-serif" font-size="16" letter-spacing="5">JAVA  ·  BACKEND DEVELOPMENT</text>
+<text x="60" y="145" fill="#F3EDE5" font-family="Georgia,serif" font-size=" sixty" font-size="62" font-weight="bold">Shivank Yadav</text>
+<text x="64" y="190" fill="#B9ADA3" font-family="Arial,sans-serif" font-size="20">Computer Science student building with Java and Spring Boot.</text>
+<text x="64" y="222" fill="#C58D70" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">LEARN  /  BUILD  /  IMPROVE</text>
+
+</svg>

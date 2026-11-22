@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92">
+
+<rect x="0" y="8" width="1200" height="76" rx="10" fill="#201C1A"/>
+<rect x="0" y="8" width="5" height="76" rx="2" fill="#B7C7B0"/>
+<text x="28" y="39" fill="#C58D70" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">06</text>
+<text x="76" y="42" fill="#F3EDE5" font-family="Georgia,serif" font-size="27">CONNECT</text>
+<text x="76" y="65" fill="#B9ADA3" font-family="Arial,sans-serif" font-size="13">Find me around the web.</text>
+
+</svg>

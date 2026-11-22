@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="172" viewBox="0 0 1200 172">
+
+<rect width="1200" height="172" rx="12" fill="#201C1A" stroke="#51443D"/>
+<rect x="0" y="0" width="6" height="172" rx="3" fill="#B7C7B0"/>
+<text x="34" y="42" fill="#C58D70" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">01  /  FITNESS TRACKER</text>
+<text x="34" y="79" fill="#F3EDE5" font-family="Georgia,serif" font-size="25">Activity tracking and personal fitness goals.</text>
+<text x="34" y="112" fill="#B9ADA3" font-family="Arial,sans-serif" font-size="15">Java 21 · Spring Boot · Security · Thymeleaf · JPA · TiDB · Docker</text>
+<text x="34" y="146" fill="#B7C7B0" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">LIVE DEPLOYMENT</text>
+
+</svg>

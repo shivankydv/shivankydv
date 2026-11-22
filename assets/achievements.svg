@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+
+<rect width="1200" height="150" rx="12" fill="#151312" stroke="#51443D"/>
+<g font-family="Arial,sans-serif">
+ <text x="34" y="62" fill="#B7C7B0" font-size="42" font-weight="bold">500+</text>
+ <text x="34" y="92" fill="#B9ADA3" font-size="15">LeetCode problems</text>
+ <path d="M380 28V122" stroke="#51443D"/>
+ <text x="425" y="62" fill="#B7C7B0" font-size="42" font-weight="bold">3★</text>
+ <text x="425" y="92" fill="#B9ADA3" font-size="15">HackerRank Java</text>
+ <path d="M770 28V122" stroke="#51443D"/>
+ <text x="815" y="58" fill="#F3EDE5" font-size="25">8.20 / 10</text>
+ <text x="815" y="92" fill="#B9ADA3" font-size="15">Academic GPA</text>
+</g>
+
+</svg>
