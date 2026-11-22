@@ -1,214 +1,242 @@
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=220&section=header&text=Shivank%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%2B+Spring+Boot;Building+Bharat+Bhumi+%26+Veleon;400%2B+DSA+Problems+Solved;Open+to+Backend%2FFull-Stack+Roles" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/shivankkk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shivankydv14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/shivankydv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-Noida,%20India-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+education:    B.Tech, Computer Science (Data Science) @ NIET  (2024 – 2028)
+gpa:          8.20 / 10.0
+focus:        Backend Development — REST APIs, relational databases, Java systems
+core_skills:  Data Structures & Algorithms · OOP · DBMS
+problems_solved: 400+ (HackerRank, LeetCode, GeeksforGeeks)
+status:       Open to backend / full-stack engineering opportunities
+```
+
+- 🏗️ Building **Bharat Bhumi** — a unified land administration platform for SIH 2026
+- 🛠️ Building **Veleon** — a software engineering workspace with auth, persistence, and planned real-time collaboration
+- 💪 Developed and deployed **Fitness Tracker** — a full-stack Spring Boot application with Docker and cloud database integration
+- 🌱 Strong fundamentals-first approach: DSA, OOP, and DBMS before frameworks
+- 📫 Reach me anytime — links below
+
+<br/>
+
+## 🧰 Tech Stack
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,55:0B3D2E,100:00FF88&height=250&section=header&text=Shivank%20Yadav&fontSize=60&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Java%20Backend%20%C2%B7%20Spring%20Boot%20%C2%B7%20Full-Stack%20Engineering&descSize=18&descColor=00FF88&descAlignY=64" alt="Shivank Yadav - Java Backend and Full-Stack Engineering" width="100%"/>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<a href="https://github.com/shivankydv/Fitness_Tracker">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=620&height=40&lines=Java+Backend+Developer;Spring+Boot+Developer;500%2B+LeetCode+Problems+Solved;Building+Scalable+Backend+Systems" alt="Typing animation"/>
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/-JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/-JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/-REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://img.shields.io/badge/-TiDB-00A3E0?style=for-the-badge&logo=tidb&logoColor=white" />
+
+<br/><br/>
+
+**Testing**
+<br/>
+<img src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/-Unit%20Testing-25A162?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Automated%20Testing-25A162?style=for-the-badge" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,docker" />
+<img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏞️ Bharat Bhumi
+**Digital Land Records & Unified Land Administration Platform**
+*Built for Smart India Hackathon (SIH) 2026*
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+A unified land administration platform combining citizen-facing land services with department-level workflows — property records, applications, documents, payments, grievances, and land discovery.
+
+**Highlights:**
+- Designed REST APIs and structured persistence for land/property services
+- Built responsive citizen and admin portals with GIS exploration and Land Discovery Requests
+- Implemented dedicated admin workflows for reviewing applications, documents, payments, users, and reports
+
+> **Why it matters:** bridges citizen self-service with government-side review in one structured system.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Veleon
+**Software Engineering Workspace**
+*In progress*
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/-Spring%20Security%2FJWT-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+
+A software engineering workspace for project/task management, API documentation, and developer collaboration.
+
+**Highlights:**
+- Building RESTful services with Spring Boot + PostgreSQL, using JPA/Hibernate for persistence
+- Designing auth and role-based access control with Spring Security and JWT
+- Architecting planned support for WebSockets, GitHub integration, Docker, and health monitoring
+
+> **Why it's interesting:** pairs core backend architecture with real-time, collaborative workflow design.
+
+</td>
+</tr>
+</table>
+
+### 💪 Fitness Tracker
+**Full-Stack Fitness Tracking Application**  
+<sub><strong>Completed · Live Deployment</strong></sub>
+
+![Java](https://img.shields.io/badge/-Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+A full-stack fitness tracking platform that allows users to register, log in, record workout activities, manage fitness goals, and monitor their progress through a dashboard.
+
+**Highlights:**
+- Implemented user authentication and authorization using Spring Security
+- Built activity tracking and goal management functionality
+- Used Spring Data JPA and Hibernate for database persistence
+- Developed dynamic server-rendered pages using Thymeleaf
+- Containerized the application using Docker and Docker Compose
+- Deployed the Spring Boot application on Render with TiDB Cloud as the managed MySQL-compatible database
+
+**🌐 Live Application:** [Open Fitness Tracker](https://fitness-tracker-nyp5.onrender.com)  
+**💻 Source Code:** [GitHub Repository](https://github.com/shivankydv/Fitness_Tracker)
+
+#### 📸 Application Screenshots
+
+<div align="center">
+
+**Login Page — Click to open the live application**
+
+<a href="https://fitness-tracker-nyp5.onrender.com">
+  <img src="assets/fitness-tracker-login.png" alt="Fitness Tracker Login Page — Click to visit live application" width="85%"/>
+</a>
+
+<br/><br/>
+
+**Activities Dashboard — Click to open the live application**
+
+<a href="https://fitness-tracker-nyp5.onrender.com">
+  <img src="assets/fitness-tracker-activities.png" alt="Fitness Tracker Activities Dashboard — Click to visit live application" width="95%"/>
 </a>
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Fitness_Tracker-00FF88?style=for-the-badge&logo=render&logoColor=0D1117&labelColor=0D1117)](https://fitness-tracker-nyp5.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shivankkk-00B4FF?style=for-the-badge&logo=linkedin&logoColor=00B4FF&labelColor=0D1117)](https://linkedin.com/in/shivankkk)
-[![Email](https://img.shields.io/badge/Email-Contact-8B949E?style=for-the-badge&logo=gmail&logoColor=8B949E&labelColor=0D1117)](mailto:shivankydv14@gmail.com)
+<a href="https://fitness-tracker-nyp5.onrender.com">
+  <img src="https://img.shields.io/badge/🚀_Visit_Live_Application-0B5132?style=for-the-badge" alt="Visit Fitness Tracker"/>
+</a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,100:00B4FF&height=2&section=header" width="100%" alt=""/>
-
-## `> whoami`
-
-```text
-name       : Shivank Yadav
-education  : B.Tech Computer Science (Data Science), NIET  |  2024 - 2028
-gpa        : 8.20 / 10
-focus      : Java Backend Development, Full-Stack Engineering
-shipped    : Full-stack Java app, deployed and live
-```
-
-I build backend systems in Java and Spring Boot: secure APIs, clean data models, containerized deployments. I care about fundamentals, so I practice DSA daily.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,100:00B4FF&height=2&section=header" width="100%" alt=""/>
-
-## `> stack --list`
-
-<div align="center">
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF88)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=00FF88)
-![Spring Security](https://img.shields.io/badge/Spring_Security-0D1117?style=for-the-badge&logo=springsecurity&logoColor=00FF88)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=postman&logoColor=00FF88)
-![JPA](https://img.shields.io/badge/JPA_%2F_Hibernate-0D1117?style=for-the-badge&logo=hibernate&logoColor=00FF88)
-![JDBC](https://img.shields.io/badge/JDBC-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF88)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00B4FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00B4FF)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=8B949E)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=8B949E)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8B949E)
-
-**Tools and Practices**
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00B4FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00B4FF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00B4FF)
-![Maven](https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=00B4FF)
-![JUnit](https://img.shields.io/badge/JUnit-0D1117?style=for-the-badge&logo=junit5&logoColor=00B4FF)
-
-**Core CS**
-
-![OOP](https://img.shields.io/badge/Object--Oriented_Programming-0D1117?style=for-the-badge&logoColor=00FF88&labelColor=0D1117&color=0D1117)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1117?style=for-the-badge&logoColor=00FF88&labelColor=0D1117&color=0D1117)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,100:00B4FF&height=2&section=header" width="100%" alt=""/>
-
-## `> projects --featured`
-
-### 01 &nbsp;Fitness Tracker &nbsp;![Status](https://img.shields.io/badge/status-completed_%26_deployed-00FF88?style=flat-square&labelColor=0D1117)
-
-> A full-stack Java web application, deployed to the cloud and running live.
-
-<div align="center">
-
-[![Launch Live Demo](https://img.shields.io/badge/%E2%96%B6_LAUNCH_LIVE_DEMO-fitness--tracker--nyp5.onrender.com-00FF88?style=for-the-badge&labelColor=0D1117)](https://fitness-tracker-nyp5.onrender.com/)
-[![Source Code](https://img.shields.io/badge/SOURCE-Fitness__Tracker-8B949E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/shivankydv/Fitness_Tracker)
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://fitness-tracker-nyp5.onrender.com/">
-        <img src="assets/fitness-tracker-login.png" alt="Fitness Tracker - Login screen (click to open live app)" width="100%"/>
-      </a>
-      <br/><sub><b>Login</b> &middot; click to open the live app</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://fitness-tracker-nyp5.onrender.com/">
-        <img src="assets/fitness-tracker-activities.png" alt="Fitness Tracker - Activities screen (click to open live app)" width="100%"/>
-      </a>
-      <br/><sub><b>Activities</b> &middot; click to open the live app</sub>
-    </td>
-  </tr>
-</table>
+## 🏆 Achievements
+
+<div align="center">
+
+| 🎯 | Achievement |
+|:---:|---|
+| ✅ | Solved **400+** coding & data structure problems across HackerRank, LeetCode, and GeeksforGeeks |
+| ⭐ | **3★** rating in Java on HackerRank |
 
 </div>
-
-**Features**
-- User registration and authentication
-- Fitness activity tracking
-- Goal management
-- Dashboard
-- Cloud database integration
-- Dockerized deployment
-
-**Stack:** Java 21 &middot; Spring Boot &middot; Spring Security &middot; Thymeleaf &middot; MySQL-compatible TiDB &middot; Spring Data JPA &middot; Hibernate &middot; Docker &middot; Docker Compose &middot; Render
 
 <br/>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 02 &nbsp;Bharat Bhumi
-![Status](https://img.shields.io/badge/Smart_India_Hackathon-2026-00B4FF?style=flat-square&labelColor=0D1117)
-
-A digital land records and unified land administration platform.
-
-- Citizen-facing land services
-- Property records and ownership workflows
-- Document management
-- GIS exploration and land discovery
-- Administrative review workflows
-
-**Stack:** Java &middot; Spring Boot &middot; PostgreSQL &middot; JTS (spatial data)
-
-</td>
-    <td valign="top" width="50%">
-
-### 03 &nbsp;Veleon
-![Status](https://img.shields.io/badge/status-in_progress-FFB000?style=flat-square&labelColor=0D1117)
-
-A software engineering workspace.
-
-- Project and task management
-- Authentication and role-based access control
-- API documentation
-- Planned: real-time collaboration (WebSockets)
-- Planned: GitHub integration and health monitoring
-
-**Stack:** Java &middot; Spring Boot &middot; Spring Security &middot; PostgreSQL &middot; JPA/Hibernate &middot; JWT
-
-[![Repo](https://img.shields.io/badge/SOURCE-veleon-8B949E?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/shivankydv/veleon)
-
-</td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,100:00B4FF&height=2&section=header" width="100%" alt=""/>
-
-## `> achievements`
+## 📚 Currently Exploring
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h1>500+</h1>
-      <b>LeetCode problems solved</b>
-    </td>
-    <td align="center" width="50%">
-      <h1>3&#9733;</h1>
-      <b>Java on HackerRank</b>
-    </td>
-  </tr>
-</table>
+| ✅ Already Using | 🔭 Exploring (via Veleon) |
+|---|---|
+| Java, Spring Boot, Spring Security, REST APIs | WebSockets for real-time collaboration |
+| PostgreSQL, MySQL, JPA/Hibernate | Deeper GitHub API integration |
+| Docker, Docker Compose, Cloud Deployment | Advanced cloud and CI/CD workflows |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,100:00B4FF&height=2&section=header" width="100%" alt=""/>
+<br/>
 
-## `> stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivankydv&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF88&icon_color=00B4FF&text_color=C9D1D9&border_color=21262D&border_radius=10" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivankydv&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&border_color=21262D&border_radius=10" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shivankydv&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Shivank's GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivankydv&hide_border=true" alt="Shivank's GitHub Streak" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=shivankydv&background=0D1117&border=21262D&stroke=21262D&ring=00FF88&fire=00B4FF&currStreakNum=FFFFFF&currStreakLabel=00FF88&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivankydv&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&area_color=00FF88&hide_border=true" alt="Contribution graph" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivankydv&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,100:00B4FF&height=2&section=header" width="100%" alt=""/>
-
-## `> currently --exploring`
-
-- Real-time systems with WebSockets
-- GitHub integration and application health monitoring
-- Containerized deployment with Docker and Docker Compose
-- Data structures and algorithms
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,100:00B4FF&height=2&section=header" width="100%" alt=""/>
-
-## `> contact`
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shivankkk-00B4FF?style=for-the-badge&logo=linkedin&logoColor=00B4FF&labelColor=0D1117)](https://linkedin.com/in/shivankkk)
-[![Email](https://img.shields.io/badge/Email-shivankydv14%40gmail.com-00FF88?style=for-the-badge&logo=gmail&logoColor=00FF88&labelColor=0D1117)](mailto:shivankydv14@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shivankydv-8B949E?style=for-the-badge&logo=github&logoColor=8B949E&labelColor=0D1117)](https://github.com/shivankydv)
+## 🔗 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0B3D2E,100:00FF88&height=120&section=footer" width="100%" alt=""/>
+<a href="https://linkedin.com/in/shivankkk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shivankydv14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/shivankydv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<i>Always open to backend/full-stack engineering opportunities and interesting collaborations.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:6DB33F&height=100&section=footer" width="100%"/>
 
 </div>
